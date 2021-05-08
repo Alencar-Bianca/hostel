@@ -1,0 +1,24 @@
+.mosaico-single{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.mosaicoimg{
+    background-position: center;
+    background-size: cover;
+    width: 60%;
+    height: 250px;
+}
+.mosaicopara{
+    width: 40%;
+    padding: 0 2%;
+    text-align: justify;
+    font-family: var(--font-poppis);
+    font-weight: 200;
+}
+.main-mosaico .container{
+    padding: 0;
+}
+.-bgcolor{
+    background-color: var(--cor05);
+}
