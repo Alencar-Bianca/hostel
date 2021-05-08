@@ -1,0 +1,10 @@
+.main-para{
+    padding: 0 2%;
+    text-align: justify;
+    font-family: var(--font-poppis);
+    font-weight: 200;
+    color: #fff;
+}
+.-mosaicopara{
+    width: 40%;
+}

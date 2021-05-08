@@ -1,0 +1,11 @@
+.main-about{
+    
+  
+}
+.-colorabout{
+    padding: 40px;
+    background-color: var(--cor01);
+}
+.main-about .container {
+    display: block;
+}
