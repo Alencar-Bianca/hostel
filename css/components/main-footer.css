@@ -1,0 +1,7 @@
+.main-footer .container{
+    display: block;
+}
+.main-footer .container .-p{
+    text-align: center;
+    font-size: 1.2em;
+}
