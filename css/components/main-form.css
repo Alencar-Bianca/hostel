@@ -1,0 +1,11 @@
+.main-form{
+    display: block;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    float: right;
+}
+.-colorform{
+    float: right;
+    background-color: var(--cor02);
+}

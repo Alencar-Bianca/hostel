@@ -1,0 +1,7 @@
+.-img{
+    background-image: url('../../img/banner.jpeg');
+    min-height: 557px;
+}
+.main-banner .container{
+    display: block;
+}

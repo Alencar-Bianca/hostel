@@ -1,0 +1,15 @@
+.main-bnt{
+    max-width: 150px;
+    cursor: pointer;
+    background-color: var(--cor01);
+    border: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.-bnt{
+    text-align: center;
+}
+
+.main-bnt:hover{
+    background-color: #fd5c84;
+}

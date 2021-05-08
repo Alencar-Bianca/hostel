@@ -1,0 +1,9 @@
+.main-title{
+    font-size: 2em;
+    font-family: var(--font-roboto);
+    text-align: center;
+}
+.h2{
+    font-weight: lighter;
+    margin-bottom: 15px;
+}

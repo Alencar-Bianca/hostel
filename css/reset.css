@@ -15,8 +15,7 @@
     margin: auto;
     padding: 0 2%;
     display: flex;
-
 }
-.-space{
-    justify-content: space-between;
+.clear{
+    clear: both;
 }
