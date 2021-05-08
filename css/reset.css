@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    padding: 0 2%;
+    display: flex;
+
+}
+.-space{
+    justify-content: space-between;
+}
