@@ -2,12 +2,16 @@
     display: flex;
     width: 100%;
     align-items: center;
+    flex-wrap: wrap;
 }
 .mosaicoimg{
     background-position: center;
     background-size: cover;
     width: 60%;
     height: 250px;
+}
+.-mosaicopara{
+    width: 40%;
 }
 
 .main-mosaico .container{
